@@ -82,16 +82,16 @@ int main()
     printf("\n");
     
     //Display Final Array
-    int len = 0;
-    int cnt = 0;
+    int n = 0;
+    int i = 0;
 
-    len = intersection(arr1, arr2, arr3, n1, n2);
+    n = intersection(arr1, arr2, arr3, n1, n2);
 
     printf("Intersection: ");
-    for (cnt = 0; cnt < len; cnt++)
-        printf("%d ", arr3[cnt]);
-    printf("\n");
-
+    for (i = 0; i < n; i++)
+    {
+      printf("%d ", arr3[i]);
+    }
     return 0;
 }
 
