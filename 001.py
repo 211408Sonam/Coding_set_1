@@ -1,9 +1,9 @@
-...
+"""
 Problem:
 
 Given an array of integers and a number k, where 1 <= k <= length of the array, compute the maximum values of each subarray of length k
 
-...
+"""
 
 void Disp(int arr[], int n, int k) {
   int j, max;
