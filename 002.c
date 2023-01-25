@@ -1,4 +1,4 @@
-//Problem: Given an unsorted array of non-negative distinct integers, find the smallest missing non-negative element in it.
+//Given an unsorted array of non-negative distinct integers, find the smallest missing non-negative element in it.
 
 
   
