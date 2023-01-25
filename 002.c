@@ -1,5 +1,8 @@
-//Given an unsorted array of non-negative distinct integers, find the smallest missing non-negative element in it.
+"""
+Problem:
 
+Given an unsorted array of non-negative distinct integers, find the smallest missing non-negative element in it.
+"""
 
   
 #include <stdio.h>
